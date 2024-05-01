@@ -13,7 +13,9 @@ Designed for Mono-spaced Fonts, but its a game so play around!
   - High Score
   - Controls:  UpDownLeftRight-Arrows,  ASDW,  HJKL
 
-# Requires Rust.
+# Requires 
+  - Rust
+  - libasound2-dev (soda apt install)
 
 # To run: 
   - Open the Terminal Emulator of your choice (not Qterminal, won't render correctly)
