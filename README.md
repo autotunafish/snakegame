@@ -5,7 +5,7 @@ Designed for Mono-spaced Fonts, but its a game so play around!
 # Features:
   - High precision slithering controls
   - Actual graphics
-  - Lush, 256 colors
+  - Lush, 256 colors (but only one at a time!)
   - Opional 'feed-beep and crash-boop'
   - 9 Board sizes
   - 12 Obstacle Maps
