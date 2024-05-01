@@ -13,7 +13,7 @@ Designed for Mono-spaced Fonts, but its a game so play around!
   - High Score
   - Controls:  UpDownLeftRight-Arrows,  ASDW,  HJKL
 
-# Requires 
+# Requirements:
   - Rust
   - libasound2-dev (soda apt install)
 
