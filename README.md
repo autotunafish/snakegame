@@ -1,5 +1,6 @@
 # snakegame
-A terminal snake game that uses the drawille crate to render images.
+A terminal snake game that uses the drawille crate to render images. 
+Designed for Mono-spaced Fonts, but its a game so play around!
 
 # Features:
   - High precision slithering controls
@@ -10,7 +11,8 @@ A terminal snake game that uses the drawille crate to render images.
   - 12 Obstacle Maps
   - 5 Speeds
   - High Score
-  - 
+  - Controls:  UpDownLeftRight-Arrows,  ASDW,  HJKL
+
 # Requires Rust.
 
 # To run: 
