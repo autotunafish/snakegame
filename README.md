@@ -23,4 +23,8 @@ Designed for Mono-spaced Fonts, but its a game so play around!
     - 'Alacritty best performance', 'cool-retro-terminal' prettiest
   - Clone this repo and 'cargo run' it.
 
-
+![](https://github.com/autotunafish/snakegame/blob/main/img/snake1.jpg)
+![](https://github.com/autotunafish/snakegame/blob/main/img/snake2.jpg)
+![](https://github.com/autotunafish/snakegame/blob/main/img/snake3.jpg)
+![](https://github.com/autotunafish/snakegame/blob/main/img/snake4.jpg)
+![](https://github.com/autotunafish/snakegame/blob/main/img/snake5.jpg)
