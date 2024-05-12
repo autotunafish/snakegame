@@ -15,6 +15,7 @@ Designed for Mono-spaced Fonts, but its a game so play around!
 
 # Requirements:
   - Rust
+  - g++ (or equivalenet C-Compiler)
   - libasound2-dev (soda apt install)
 
 # To run: 
