@@ -20,8 +20,8 @@ Designed for Mono-spaced Fonts, but its a game so play around!
 
 # To run: 
   - Open the Terminal Emulator of your choice
-    - not Qterminal, won't render correctly
-    - 'Alacritty best performance', 'cool-retro-terminal' prettiest
+    - Some won't render correctly, adjust settings
+    - 'Alacritty' best performance, 'cool-retro-terminal' prettiest
   - Clone this repo and 'cargo run' it.
 
 ![](https://github.com/autotunafish/snakegame/blob/main/img/snake6.jpg)
