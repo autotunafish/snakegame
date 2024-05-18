@@ -16,7 +16,10 @@ Designed for Mono-spaced Fonts, but its a game so play around!
 # Requirements:
   - Rust
   - g++ (or equivalent C-Compiler)
-  - libasound2-dev (soda apt install)
+  - libasound2-dev 
+  - pkg-config 
+
+    
 
 # To run: 
   - Open the Terminal Emulator of your choice
