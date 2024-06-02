@@ -998,6 +998,13 @@ fn main() {
 
         #[allow(unused_labels)]
         'game: loop {
+
+            //Clear the Terminal screen and set cursor position.
+            //Sets Lower Left. It doesn't look bad.
+            //print!("{}[2J", 27 as char);
+            //Sets Upper Right.
+            print!("{esc}[2J{esc}[1;1H", esc = 27 as char);
+           
             //Time of the new tick.
             let start = Instant::now();
 
