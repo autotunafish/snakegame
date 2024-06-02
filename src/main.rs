@@ -19,6 +19,8 @@ The keys still go to stdout but, w/ the frame rate set high enough, It is well h
   0,7__|__|__|__|__|5,7
 
 */
+//TODO PAUSE BUTTON. JUST BIND ANOTHER KEY LIKE ESCAPE TO TRIGGER A BLOCKING EVENT MAYBE.
+//ONLY PAUSE-UNPAUSE I THINK SHOULD SUFFICE.
 
 //Drawille is the drawing tool.
 extern crate drawille;
